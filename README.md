@@ -65,6 +65,8 @@ Sigo em constante evolução com Java e Spring Boot, aplicando boas práticas pa
 <br><br>
 <br><br>
 ## 🔥 Skills
+
+<br><br>
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
@@ -113,7 +115,7 @@ Sigo em constante evolução com Java e Spring Boot, aplicando boas práticas pa
 
   </div>
 
-
+<br><br>
 
 ##
 
