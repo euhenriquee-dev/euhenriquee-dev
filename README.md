@@ -49,7 +49,7 @@ Sigo em constante evolução com Java e Spring Boot, aplicando boas práticas pa
 
   <br><br>
 
-----
+
 
 <!-- PacMan -->
 
@@ -60,7 +60,7 @@ Sigo em constante evolução com Java e Spring Boot, aplicando boas práticas pa
 </picture>
 
 
-----
+
 
 <br><br>
 <br><br>
