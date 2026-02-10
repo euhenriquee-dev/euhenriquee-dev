@@ -125,8 +125,8 @@ Sigo em constante evolução com Java e Spring Boot, aplicando boas práticas pa
 
 
 
-##
-<div align="center">
+
+<div align="left">
 <h2>Projetos em Destaque 🚀⚡</h2>
 </div>
 
