@@ -140,7 +140,7 @@ Sigo em constante evolução com Java e Spring Boot, aplicando boas práticas pa
 - Uso de **Classes e Métodos Abstratos** para criar estruturas flexíveis e extensíveis.
 - Tratamento de exceções personalizadas para garantir a resiliência do sistema.
 
-
+<br><br>
 
 <div align="center">
   <h3><strong>Fique à vontade para entrar em contato, contribuir em projetos e trocar experiências. 📞👨🏽‍💻</strong></h3>
