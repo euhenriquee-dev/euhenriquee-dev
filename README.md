@@ -124,6 +124,22 @@ Sigo em constante evolução com Java e Spring Boot, aplicando boas práticas pa
 <br>
 
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/euhenriquee-dev/euhenriquee-dev/output/github-contribution-grid-snake-dark.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/euhenriquee-dev/euhenriquee-dev/output/github-contribution-grid-snake.svg"
+      alt="GitHub contribution snake"
+    />
+  </picture>
+</p>
+
+<br><br>
+
+
 <div align="center">
   <p align="center">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
