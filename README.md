@@ -147,6 +147,9 @@ Sigo em constante evolução com Java e Spring Boot, aplicando boas práticas pa
 </div>
 
 
+<br><br>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10FF2A&center=true&vCenter=true&width=520&lines=Curtiu+os+Projetos%3F+Deixa+uma+Estrela!" />
 </p>
