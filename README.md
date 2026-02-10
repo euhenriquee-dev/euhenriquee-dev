@@ -125,6 +125,35 @@ Sigo em constante evolução com Java e Spring Boot, aplicando boas práticas pa
 
 
 
+##
+<div align="center">
+<h2>Projetos em Destaque 🚀⚡</h2>
+</div>
+
+ **🔹 Projeto Acadêmico: [Plataforma de Cursos Estilo Udemy](https://github.com/PHYMatheus/Projeto-Udemy) 🔹**
+
+**`Desenvolvimento de um sistema modular para gestão de cursos e alunos, focado na solidez da arquitetura orientada a objetos.`**
+
+- **Tecnologias:** Java, Conceitos avançados de POO.
+- **`O que aprendi/apliquei:`**
+- Implementação de **Polimorfismo e Herança** para redução de duplicidade de código.
+- Uso de **Classes e Métodos Abstratos** para criar estruturas flexíveis e extensíveis.
+- Tratamento de exceções personalizadas para garantir a resiliência do sistema.
+
+##
+
+<div align="center">
+  <h3><strong>Fique à vontade para entrar em contato, contribuir em projetos e trocar experiências. 📞👨🏽‍💻</strong></h3>
+</div>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10FF2A&center=true&vCenter=true&width=520&lines=Curtiu+os+Projetos%3F+Deixa+uma+Estrela!" />
+</p>
+
+
+
+
 
 <div align="center">
   <p align="center">
