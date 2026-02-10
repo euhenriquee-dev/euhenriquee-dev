@@ -127,7 +127,7 @@ Sigo em constante evolução com Java e Spring Boot, aplicando boas práticas pa
 
 
 <div align="left">
-<h2>Projetos em Destaque 🚀⚡</h2>
+<h2>Featured Projects 🚀⚡</h2>
 </div>
 
  **🔹 Projeto Acadêmico: [Plataforma de Cursos Estilo Udemy](https://github.com/PHYMatheus/Projeto-Udemy) 🔹**
